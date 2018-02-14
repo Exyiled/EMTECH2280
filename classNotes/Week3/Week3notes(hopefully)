@@ -1,1 +1,41 @@
-Week2 Notes
+Week3 Notes
+
+Add more shapes
+changing shapes 
+multiple shapes
+spinning rectangles,arrays
+
+review 
+	- shapes
+		ellipse
+		rect
+		line
+	-background
+	-colors
+		r,g,b
+		greyscale
+		stroke
+		fill
+	random(255)
+	event function
+	keyPressed
+	mouseDragged
+
+void setup
+void draw
+
+comments
+println
+if statements
+variables
+int
+float
+string
+
+	system variables
+width
+height
+mouseX,mouseY
+pmouseX, mousey
+
+	
