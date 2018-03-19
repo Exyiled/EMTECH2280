@@ -12,7 +12,7 @@ pinMode(lightPin, OUTPUT);
 
 void loop() {
 
-  for (int i = 5000; i > 1000; i -= 20) {
+  for (int i = 5000; i < 1000; i -= 20) {
     //Turns on sound
 
     digitalWrite(speakerPin, HIGH);
@@ -21,14 +21,14 @@ void loop() {
     //Turns on Light
 
     digitalWrite(lightPin, HIGH);
-    delayMicroseconds(i);
+    delay(i/100);
 
     //Turns off both light and sound
     digitalWrite(speakerPin, LOW);
     delayMicroseconds(i);
 
     digitalWrite(lightPin, LOW);
-    delayMicroseconds(i);
+    delay(i/100);
   }
 
   // additional pause after each alarm ramp sound
