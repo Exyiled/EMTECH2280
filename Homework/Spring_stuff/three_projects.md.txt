@@ -1,0 +1,26 @@
+Arduino Controlled Nerf Vulcan
+
+http://www.instructables.com/id/Arduino-Controled-Nerf-Vulcan/
+
+I chose this project because I think its one of the coolest things out of all
+the projects ive seen. Being able to shoot a nerf gun from a safe distance makes it 
+feel like an automated turret and I love the idea of that. For this project, I
+would need to learn how to use a motor and a device to pinch the trigger.
+
+TALKING ARDUINO HALLOWEEN SKELETON
+
+http://www.instructables.com/id/Talking-Arduino-Halloween-Skeleton/
+
+I love the idea of automated devices or devices that can be operated from a distance,
+so the concept of thhis project really appealeed to me. For this project I would need
+to learn how to use the speaker more efficently n and setting up the device.
+
+
+Barbican's Rain Room
+
+https://www.youtube.com/watch?v=EkvazIZx-F0
+
+I love the rain simulation in this project which plays with your mind. When you
+see this rain simulation someone would expect to be wet when passing through so it
+messes with your natural body and thought process. For this project, I would have to
+learn how to use cameras to judge a persos position relative to the space of the project.
