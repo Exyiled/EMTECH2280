@@ -1,0 +1,23 @@
+Chopping food
+Computer Turn ONer - laser sensor
+Switch flipper
+Thrower
+
+
+
+A robotic arm with a blade attached to cut in a vertical motion. Machine only operates
+when the button is pressed. Something to auto cut things like onions and peppers would
+make my life easier.
+
+
+Holder- A robotic Arm designed to grip objects that are difficult to hold and is
+adjustable through commands of the robotic arms. I think something like this would
+allow me to take on different angles on the object being held by the arm.
+
+Computer Turn ONer- Turns on the computer and monitors when a button is pressed.
+A laser input or button press would simplify turning on 
+
+
+Thrower, takes an item off the shelf and throws it in a direction( or place the object).
+The thrower can detect if items are within reach. It will attempt to grab said objects
+and toss them in a set direction.
